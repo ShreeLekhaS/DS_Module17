@@ -1,5 +1,5 @@
 # Ex 5(D) Topological Sort
-## DATE:
+## DATE: 18.04.2025
 ## AIM:
 To compose the code to determine whether the topological ordering for the following graph is possible or not.
 
