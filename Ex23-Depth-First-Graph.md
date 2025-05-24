@@ -54,7 +54,7 @@ struct node*createNode(int v)
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/cab93159-bacb-4438-8976-4201e170cceb)
+![image](https://github.com/user-attachments/assets/12da1043-24ae-4b1f-b6e3-976aea5250b1)
 
 
 ## Result:
