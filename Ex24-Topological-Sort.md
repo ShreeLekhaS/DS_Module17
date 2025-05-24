@@ -78,6 +78,7 @@ int main()
 
 ## Output:
 
+![image](https://github.com/user-attachments/assets/155d2eaf-1b91-4391-ade2-66bd987dd11f)
 
 
 ## Result:
